@@ -1,46 +1,19 @@
+aid: kondor
 name: Kondor
-description: A comprehensive API catalog for Kondor services
-url: https://kondor.example.com
+description: >-
+  Kondor provides API capabilities for financial technology services. The
+  platform offers tools for managing financial operations and workflows.
 type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- APIs
-- Kondor
-- API Catalog
-created: '2024'
-modified: '2024'
-apis:
-- name: Kondor API
-  description: Main API for Kondor platform services
-  image: https://kondor.example.com/images/logo.png
-  humanUrl: https://kondor.example.com
-  baseUrl: https://api.kondor.example.com
-  tags:
-  - Platform
-  - Services
-  properties:
-  - type: Documentation
-    url: https://docs.kondor.example.com
-  - type: OpenAPI
-    url: https://api.kondor.example.com/openapi.json
-  - type: Authentication
-    url: https://docs.kondor.example.com/authentication
-  - type: RateLimits
-    url: https://docs.kondor.example.com/rate-limits
-  - type: ChangeLog
-    url: https://kondor.example.com/changelog
-  - type: Status
-    url: https://status.kondor.example.com
-  - type: Support
-    url: https://support.kondor.example.com
-  - type: TermsOfService
-    url: https://kondor.example.com/terms
-  contact:
-  - type: Email
-    url: mailto:api@kondor.example.com
-  - type: Support
-    url: https://support.kondor.example.com/contact
+  - Fintech
+  - Financial
+  - API
+url: https://raw.githubusercontent.com/api-evangelist/kondor/refs/heads/main/apis.yml
+created: '2024-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
 maintainers:
-- name: Kondor Team
-  email: team@kondor.example.com
-  url: https://kondor.example.com/about
-include: []
+  - FN: Kin Lane
+    email: kin@apievangelist.com
